@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Patterni.TaskPlanner.Domain.Logic\Patterni.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Patterni.TaskPlanner.Domain.Models\Patterni.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
 </Project>

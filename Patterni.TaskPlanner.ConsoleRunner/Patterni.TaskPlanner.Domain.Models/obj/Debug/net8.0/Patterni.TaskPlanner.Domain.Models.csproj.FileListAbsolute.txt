@@ -1,0 +1,12 @@
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.deps.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.AssemblyInfo.cs
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.sourcelink.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Patterni.TaskPlanner.Domain.Models.dll

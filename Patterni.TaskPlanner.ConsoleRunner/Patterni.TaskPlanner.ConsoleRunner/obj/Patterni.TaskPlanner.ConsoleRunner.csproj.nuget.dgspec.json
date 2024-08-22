@@ -28,6 +28,139 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj"
+              },
+              "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "Patterni.TaskPlanner.Domain.Logic",
+        "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\pasam\\.nuget\\packages\\",
+        "outputPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pasam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Patterni.TaskPlanner.Domain.Models",
+        "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\pasam\\.nuget\\packages\\",
+        "outputPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pasam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },

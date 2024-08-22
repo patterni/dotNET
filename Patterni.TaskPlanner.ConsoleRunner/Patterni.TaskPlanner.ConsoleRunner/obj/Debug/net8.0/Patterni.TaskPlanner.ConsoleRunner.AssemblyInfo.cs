@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Patterni.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4133f8e8c428eb026b0a6b26c84c87b25ab9b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Patterni.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Patterni.TaskPlanner.ConsoleRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
