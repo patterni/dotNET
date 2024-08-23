@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900497CF-75A6-4D65-B3B5-10674DB498F3}|Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900497CF-75A6-4D65-B3B5-10674DB498F3}|Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner.csproj|solutionrelative:patterni.taskplanner.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|solutionrelative:patterni.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|solutionrelative:patterni.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}|Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}|Patterni.TaskPlanner.Domain.Logic\\Patterni.TaskPlanner.Domain.Logic.csproj|solutionrelative:patterni.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:59:18.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:42:06.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:38:15.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Complexity.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T19:37:06.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

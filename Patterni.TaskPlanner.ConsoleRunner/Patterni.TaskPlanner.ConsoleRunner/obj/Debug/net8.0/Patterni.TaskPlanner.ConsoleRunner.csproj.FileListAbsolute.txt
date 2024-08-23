@@ -12,3 +12,10 @@ E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.C
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Patterni.TaskPlanner.ConsoleRunner.pdb
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Patterni.TaskPlanner.ConsoleRunner.genruntimeconfig.cache
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\ref\Patterni.TaskPlanner.ConsoleRunner.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Patterni.TaskPlanner.ConsoleRunner.csproj.AssemblyReference.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Patterni.TaskPlanner.ConsoleRunner.sourcelink.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner\obj\Debug\net8.0\Patterni.FCF597B1.Up2Date

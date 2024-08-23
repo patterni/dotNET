@@ -1,0 +1,16 @@
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.deps.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.sourcelink.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.A91A6C01.Up2Date
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Patterni.TaskPlanner.Domain.Logic.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Patterni.TaskPlanner.Domain.Logic.dll
