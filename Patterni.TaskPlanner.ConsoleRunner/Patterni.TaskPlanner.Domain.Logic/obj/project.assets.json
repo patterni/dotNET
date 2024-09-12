@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Patterni.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Patterni.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Patterni.TaskPlanner.DataAccess.Abstractions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Patterni.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
       "Patterni.TaskPlanner.Domain.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -15,6 +28,11 @@
     }
   },
   "libraries": {
+    "Patterni.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Patterni.TaskPlanner.DataAccess.Abstractions/Patterni.TaskPlanner.DataAccess.Abstractions.csproj",
+      "msbuildProject": "../Patterni.TaskPlanner.DataAccess.Abstractions/Patterni.TaskPlanner.DataAccess.Abstractions.csproj"
+    },
     "Patterni.TaskPlanner.Domain.Models/1.0.0": {
       "type": "project",
       "path": "../Patterni.TaskPlanner.Domain.Models/Patterni.TaskPlanner.Domain.Models.csproj",
@@ -23,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Patterni.TaskPlanner.DataAccess.Abstractions >= 1.0.0",
       "Patterni.TaskPlanner.Domain.Models >= 1.0.0"
     ]
   },
@@ -54,6 +73,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess.Abstractions\\Patterni.TaskPlanner.DataAccess.Abstractions.csproj": {
+              "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess.Abstractions\\Patterni.TaskPlanner.DataAccess.Abstractions.csproj"
+            },
             "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj": {
               "projectPath": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj"
             }

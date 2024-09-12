@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Patterni.TaskPlanner.Domain.Models.Enums
+namespace Patterni.TaskPlanner.Domain.Models
 {
     public enum Priority
     {

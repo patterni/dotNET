@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{900497CF-75A6-4D65-B3B5-10674DB498F3}|Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner.csproj|solutionrelative:patterni.taskplanner.consolerunner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|solutionrelative:patterni.taskplanner.domain.models\\enums\\complexity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}|Patterni.TaskPlanner.DataAccess\\Patterni.TaskPlanner.DataAccess.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.dataaccess\\fileworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}|Patterni.TaskPlanner.DataAccess\\Patterni.TaskPlanner.DataAccess.csproj|solutionrelative:patterni.taskplanner.dataaccess\\fileworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}|Patterni.TaskPlanner.DataAccess.Abstractions\\Patterni.TaskPlanner.DataAccess.Abstractions.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.dataaccess.abstractions\\iworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}|Patterni.TaskPlanner.DataAccess.Abstractions\\Patterni.TaskPlanner.DataAccess.Abstractions.csproj|solutionrelative:patterni.taskplanner.dataaccess.abstractions\\iworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF090D54-A9FE-4DF1-A660-F521D525DA60}|Patterni.TaskPlanner.Domain.Logic.Tests\\Patterni.TaskPlanner.Domain.Logic.Tests.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.logic.tests\\simpletaskplannertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF090D54-A9FE-4DF1-A660-F521D525DA60}|Patterni.TaskPlanner.Domain.Logic.Tests\\Patterni.TaskPlanner.Domain.Logic.Tests.csproj|solutionrelative:patterni.taskplanner.domain.logic.tests\\simpletaskplannertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED7EA84E-4715-4447-9092-000C41632A46}|Patterni.TaskPlanner.Domain.Models\\Patterni.TaskPlanner.Domain.Models.csproj|e:\\uni 3\\.net\\solution\\patterni.taskplanner.consolerunner\\patterni.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,48 +44,73 @@
               "RelativeDocumentMoniker": "Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
               "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
               "RelativeToolTip": "Patterni.TaskPlanner.ConsoleRunner\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T19:59:18.869Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleTaskPlanner.cs",
-              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T19:42:06.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WorkItem.cs",
               "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
               "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
               "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
               "RelativeToolTip": "Patterni.TaskPlanner.Domain.Models\\WorkItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T19:38:15.124Z",
+              "WhenOpened": "2024-09-11T11:15:16.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorkItemsRepository.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:14:41.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Complexity.cs",
-              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
-              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
-              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
-              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Models\\Enums\\Complexity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Title": "FileWorkItemsRepository.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T19:37:06.839Z",
+              "WhenOpened": "2024-09-11T10:53:18.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:24:57.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleTaskPlannerTests.cs",
+              "DocumentMoniker": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "RelativeDocumentMoniker": "Patterni.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "ToolTip": "E:\\uni 3\\.net\\Solution\\Patterni.TaskPlanner.ConsoleRunner\\Patterni.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "RelativeToolTip": "Patterni.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:22:06.27Z",
               "EditorCaption": ""
             }
           ]
