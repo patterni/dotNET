@@ -3,11 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.ConsoleRunner", "Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner.csproj", "{900497CF-75A6-4D65-B3B5-10674DB498F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterni.TaskPlanner.ConsoleRunner", "Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.ConsoleRunner.csproj", "{900497CF-75A6-4D65-B3B5-10674DB498F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.Domain.Models", "Patterni.TaskPlanner.Domain.Models\Patterni.TaskPlanner.Domain.Models.csproj", "{ED7EA84E-4715-4447-9092-000C41632A46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterni.TaskPlanner.Domain.Models", "Patterni.TaskPlanner.Domain.Models\Patterni.TaskPlanner.Domain.Models.csproj", "{ED7EA84E-4715-4447-9092-000C41632A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.Domain.Logic", "Patterni.TaskPlanner.Domain.Logic\Patterni.TaskPlanner.Domain.Logic.csproj", "{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patterni.TaskPlanner.Domain.Logic", "Patterni.TaskPlanner.Domain.Logic\Patterni.TaskPlanner.Domain.Logic.csproj", "{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.DataAccess.Abstractions", "Patterni.TaskPlanner.DataAccess.Abstractions\Patterni.TaskPlanner.DataAccess.Abstractions.csproj", "{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.DataAccess", "Patterni.TaskPlanner.DataAccess\Patterni.TaskPlanner.DataAccess.csproj", "{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{189DEE3C-FAC6-430A-B2BD-CA3CAFF35855}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{FD91AF3C-2791-4613-8C64-8EFBA75BA004}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0E6A1823-9D4D-417A-B83A-9B945A257C80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterni.TaskPlanner.Domain.Logic.Tests", "Patterni.TaskPlanner.Domain.Logic.Tests\Patterni.TaskPlanner.Domain.Logic.Tests.csproj", "{AF090D54-A9FE-4DF1-A660-F521D525DA60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +39,29 @@ Global
 		{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D593247-B8B4-4A1B-9B82-0D03428E8BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF090D54-A9FE-4DF1-A660-F521D525DA60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF090D54-A9FE-4DF1-A660-F521D525DA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF090D54-A9FE-4DF1-A660-F521D525DA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF090D54-A9FE-4DF1-A660-F521D525DA60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{900497CF-75A6-4D65-B3B5-10674DB498F3} = {0E6A1823-9D4D-417A-B83A-9B945A257C80}
+		{ED7EA84E-4715-4447-9092-000C41632A46} = {FD91AF3C-2791-4613-8C64-8EFBA75BA004}
+		{5E6BB756-E7A5-44A1-9B5C-80DA058A61C4} = {FD91AF3C-2791-4613-8C64-8EFBA75BA004}
+		{7D593247-B8B4-4A1B-9B82-0D03428E8BF7} = {189DEE3C-FAC6-430A-B2BD-CA3CAFF35855}
+		{EAA7DDE8-65D9-4042-A27B-92D4205FB4B1} = {189DEE3C-FAC6-430A-B2BD-CA3CAFF35855}
+		{AF090D54-A9FE-4DF1-A660-F521D525DA60} = {FD91AF3C-2791-4613-8C64-8EFBA75BA004}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B11ED6C2-284B-4568-B21E-906BE7E67D9E}

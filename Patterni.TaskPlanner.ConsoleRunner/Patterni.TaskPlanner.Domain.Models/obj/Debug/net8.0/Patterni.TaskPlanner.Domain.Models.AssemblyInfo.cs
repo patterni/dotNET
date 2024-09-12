@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Patterni.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a4133f8e8c428eb026b0a6b26c84c87b25ab9b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+873c9fb2d2a7173ca9ee68b21f9bf0d81553120d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Patterni.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Patterni.TaskPlanner.Domain.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

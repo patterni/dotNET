@@ -1,0 +1,16 @@
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.deps.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Patterni.TaskPlanner.Domain.Models.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.sourcelink.json
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.226843F9.Up2Date
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\Patterni.TaskPlanner.DataAccess.Abstractions.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.pdb
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\Patterni.TaskPlanner.DataAccess.Abstractions.dll

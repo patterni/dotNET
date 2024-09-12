@@ -14,3 +14,5 @@ E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.D
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\refint\Patterni.TaskPlanner.Domain.Logic.dll
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\Patterni.TaskPlanner.Domain.Logic.pdb
 E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\obj\Debug\net8.0\ref\Patterni.TaskPlanner.Domain.Logic.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.dll
+E:\uni 3\.net\Solution\Patterni.TaskPlanner.ConsoleRunner\Patterni.TaskPlanner.Domain.Logic\bin\Debug\net8.0\Patterni.TaskPlanner.DataAccess.Abstractions.pdb

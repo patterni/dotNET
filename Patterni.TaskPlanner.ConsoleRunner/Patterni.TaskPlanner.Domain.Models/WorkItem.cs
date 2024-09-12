@@ -1,15 +1,14 @@
-﻿using Patterni.TaskPlanner.Domain.Models.Enums;
+﻿using Patterni.TaskPlanner.Domain.Models;
 using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Patterni.TaskPlanner.Domain.Models
 {
     public class WorkItem
     {
+        // Нова властивість Id
+        public Guid Id { get; set; }
+
         public DateTime CreationDate { get; set; }
         public DateTime DueDate { get; set; }
         public Priority Priority { get; set; }
@@ -18,6 +17,10 @@ namespace Patterni.TaskPlanner.Domain.Models
         public string Description { get; set; }
         public bool IsCompleted { get; set; }
 
+        public WorkItem()
+        {
+            Id = Guid.NewGuid();
+        }
 
         public override string ToString()
         {
@@ -25,6 +28,21 @@ namespace Patterni.TaskPlanner.Domain.Models
             string priorityString = Priority.ToString().ToLower();
 
             return $"{Title}: due {formattedDate}, {priorityString} priority";
+        }
+
+        public WorkItem Clone()
+        {
+            return new WorkItem
+            {
+                Id = this.Id, 
+                CreationDate = this.CreationDate,
+                DueDate = this.DueDate,
+                Priority = this.Priority,
+                Complexity = this.Complexity,
+                Title = this.Title,
+                Description = this.Description,
+                IsCompleted = this.IsCompleted
+            };
         }
     }
 }

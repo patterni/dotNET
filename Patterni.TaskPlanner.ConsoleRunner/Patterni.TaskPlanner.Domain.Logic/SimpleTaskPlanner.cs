@@ -1,20 +1,27 @@
-﻿using Patterni.TaskPlanner.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Patterni.TaskPlanner.DataAccess.Abstractions;
+using Patterni.TaskPlanner.Domain.Models;
 
 namespace Patterni.TaskPlanner.Domain.Logic
 {
+
     public class SimpleTaskPlanner
     {
-        public WorkItem[] CreatePlan(WorkItem[] workItems)
+        private readonly IWorkItemsRepository _repository;
+
+        public SimpleTaskPlanner(IWorkItemsRepository repository)
         {
+            _repository = repository;
+        }
+
+        public WorkItem[] CreatePlan()
+        {
+            var workItems = _repository.GetAll();
+
             return workItems
-                .OrderByDescending(w => w.Priority) // Спершу сортуємо за пріоритетом у порядку спадання
-                .ThenBy(w => w.DueDate)              // Далі сортуємо за DueDate у порядку зростання
-                .ThenBy(w => w.Title)                // В кінці сортуємо за назвою в алфавітному порядку
+                .Where(w => !w.IsCompleted) 
+                .OrderByDescending(w => w.Priority) 
+                .ThenBy(w => w.DueDate)              
+                .ThenBy(w => w.Title)             
                 .ToArray();
         }
     }

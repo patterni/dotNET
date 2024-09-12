@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Patterni.TaskPlanner.DataAccess.Abstractions\Patterni.TaskPlanner.DataAccess.Abstractions.csproj" />
     <ProjectReference Include="..\Patterni.TaskPlanner.Domain.Models\Patterni.TaskPlanner.Domain.Models.csproj" />
   </ItemGroup>
 
